@@ -1,7 +1,6 @@
 package com.luizcortez.cursomc.resources;
 
 import com.luizcortez.cursomc.domain.Cliente;
-
 import com.luizcortez.cursomc.services.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

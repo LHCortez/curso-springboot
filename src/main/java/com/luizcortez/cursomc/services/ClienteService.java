@@ -1,6 +1,5 @@
 package com.luizcortez.cursomc.services;
 
-import com.luizcortez.cursomc.domain.Categoria;
 import com.luizcortez.cursomc.domain.Cliente;
 import com.luizcortez.cursomc.repositories.ClienteRepository;
 import com.luizcortez.cursomc.services.exceptions.ObjectNotFoundException;
